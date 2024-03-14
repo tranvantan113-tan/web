@@ -1,0 +1,21 @@
+
+.home-product_detail-img{
+    max-width: 100%;
+    font-size: 1px;
+    display: flex;
+}
+.home-product_detail-img p{
+    font-size: 25px;
+}
+.home-product_describe{
+    font-size: 15px;
+}
+.home-product_describe p{
+    text-align: center;
+    font-size: 25px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+.home-product_describe table {
+    width: 100%;
+}

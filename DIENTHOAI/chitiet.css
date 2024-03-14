@@ -1,0 +1,33 @@
+
+.home-product_detail-img{
+    max-width: 100%;
+    font-size: 1px;
+    display: flex;
+}
+.home-product_detail-img p{
+    font-size: 25px;
+}
+.home-product_describe{
+    font-size: 15px;
+}
+.home-product_describe p{
+    text-align: center;
+    font-size: 25px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+.home-product_describe table {
+    width: 100%;
+}
+#new-comment{
+    text-align: center;
+    font-size: 20px;
+    margin: 0 0 60px 0;
+}
+#comment-text{
+    width: 40em;
+    height: 40px;
+}
+#new-comment button{
+    margin-top: 15px;
+}
